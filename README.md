@@ -14,7 +14,7 @@ What you will need:
 
 Tips:
 - before starting, make sure you have the dependencies installed :
-    <code>sudo apt-get install v4l-utils vlc dvdauthor ffmpeg<code>
+    sudo apt-get install v4l-utils vlc dvdauthor ffmpeg
   
 - Watch out if your laptop has a camera device, you should set the correct DEVICE parameter.
 Usually, the laptop camera is /dev/video0, so your device will be recongnized as /dev/video1.
